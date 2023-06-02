@@ -1,4 +1,5 @@
-# ShareIT is a File Sharing Application where users can select any file, photo, etc. from their computer/Laptop and
+# ShareIT
+ShareIT is a File Sharing Application where users can select any file, photo, etc. from their computer/Laptop and
 upload it in ShareIT.
 
 ![Screenshot (2860)](https://github.com/Aman2907/FileUploading-Application/assets/74008888/a8581519-bde0-4da0-877b-971df6515075)
