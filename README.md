@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# ShareIT is a File Sharing Application where users can select any file, photo, etc. from their computer/Laptop and
+upload it in ShareIT.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (2860)](https://github.com/Aman2907/FileUploading-Application/assets/74008888/a8581519-bde0-4da0-877b-971df6515075)
+
+
+
+![Screenshot (2862)](https://github.com/Aman2907/FileUploading-Application/assets/74008888/60935682-d8f8-4467-bf51-f773d44697a9)
+
+
+
+
+
+
+
 
 ## Available Scripts
 
