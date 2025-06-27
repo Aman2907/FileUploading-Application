@@ -1,20 +1,21 @@
-# ShareIT
-ShareIT is a File Sharing Application where users can select any file, photo, etc. from their computer/Laptop and
-upload it in ShareIT.
-
-![Screenshot (2860)](https://github.com/Aman2907/FileUploading-Application/assets/74008888/a8581519-bde0-4da0-877b-971df6515075)
+🚀 ShareIT – File Sharing Application
+ShareIT is a sleek and user-friendly file sharing application that allows users to effortlessly upload any file—be it a photo, document, or video—from their computer or laptop. Built using modern web technologies, ShareIT makes file uploads simple and efficient.
 
 
 
-![Screenshot (2862)](https://github.com/Aman2907/FileUploading-Application/assets/74008888/60935682-d8f8-4467-bf51-f773d44697a9)
+📂 Features
+✅ Upload any file from your local device
 
+📁 Easy-to-use drag & drop or browse functionality
 
+⚡ Fast and secure uploads
 
+🖼️ Real-time preview of selected files (if supported)
 
+💻 Fully responsive for desktops and laptops
 
+🖼️ Application Screenshots
+📤 File Upload Interface
+![image](https://github.com/user-attachments/assets/b5b15cea-971c-4355-9b95-4f2174769c80)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/user-attachments/assets/ccc42e07-890f-43f6-b229-e72f674cd80c)
